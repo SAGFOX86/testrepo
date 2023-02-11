@@ -1,0 +1,3 @@
+1. Test Scrap File to Upload 
+2. Test if successfully uploaded
+3. Leave in Repo for later
